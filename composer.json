@@ -1,0 +1,12 @@
+{
+    "name": "systemico/wlade",
+    "authors": [
+        {
+            "name": "Edwin Ariza",
+            "email": "edwin.ariza@systemico.co"
+        }
+    ],
+    "require": {
+        "patrickschur/language-detection": "^3.2"
+    }
+}
